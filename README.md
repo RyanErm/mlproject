@@ -12,3 +12,5 @@ Another set of graphs were created comparing COVID-19 cases with the crime data 
 
 
 ## Changelog
+
+Changes were made from the Original methods plan. It was decided to test the accuracy of each model on the post-COVID test dataset set, and then compare these results to determine which model was better. Determining which model performed better gave useful insight onto when data should be implemented into models following large-scale global phenomena

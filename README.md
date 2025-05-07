@@ -1,4 +1,4 @@
-# Impacts of COVID and Other Large-Scale Phenomenons on Crime
+# Impacts of COVID and Other Large-Scale Phenomenons on Crime and Predictive Models
 ## DS 3021 Final Project:
 by: Ryan Ermovick, Carissa Chen, Iliana Vasslides, Yuthi Madireddy, Kayla Kim
 
